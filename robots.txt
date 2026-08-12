@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-sb8a8g.paris889cqa.cfd/sitemap.xml
